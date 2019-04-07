@@ -1,5 +1,7 @@
 # yacc-Example
 
-*A basic yacc example
-*source code taken by [here](https://github.com/jengelsma/yacc-tutorial.git)
-*multiplication and division operations added.
+'''
+<p>A basic yacc example<p>
+<p>source code taken by [here](https://github.com/jengelsma/yacc-tutorial.git)<p>
+<p>multiplication and division operations added<p>
+'''
