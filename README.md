@@ -3,7 +3,7 @@
 
 <p>A basic yacc example<p>
 <p>source code taken by [here](https://github.com/jengelsma/yacc-tutorial.git)<p>
-<p>multiplication and division operations added<p>
+<p>multiplication and division operations added and number format changed to float form from integer<p>
 <p>commands >= "Print" to print,  "Exit" to exit<p>
   
 <p>an example;<p>
